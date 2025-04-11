@@ -1,0 +1,4 @@
+model_name: DistilBERT_256_16_2e-05_0.1
+monitor:
+  metric: val_loss
+  mode: min
